@@ -4,7 +4,7 @@ A java server based on ServerSocket.
 # Getting Started
 
 # Installation (Java)
-* Click [here](https://bintray.com/eukaprotech/maven/download_file?file_path=com%2Feukaprotech%2Fserver%2Fserver%2F1.0.2%2Fserver-1.0.0.jar "Version 1.0.0 Jar file") to download the jar file. 
+* Click [here](https://bintray.com/eukaprotech/maven/download_file?file_path=com%2Feukaprotech%2Fserver%2Fserver%2F1.0.0%2Fserver-1.0.0.jar "Version 1.0.0 Jar file") to download the jar file. 
 * Add the jar file to your project's build path
 
 OR
@@ -16,7 +16,7 @@ Add the dependency in build.gradle
 
 
 # Installation (Android)
-It is recommended that you use the android customized library. Click [here](https://github.com/eukaprotech/Server/blob/master/README.md) for the android library review. 
+It is recommended that you use the android customized library. Click [here](https://github.com/eukaprotech/localserver/blob/master/README.md) for the android library review. 
 
 To use this java library for android:
 
