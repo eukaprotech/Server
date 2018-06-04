@@ -2,7 +2,7 @@
 A java server based on ServerSocket.
 
 # Versions
-* [V1.0.0](https://github.com/eukaprotech/networking/blob/master/com/eukaprotech/server/server/1.0.0/README.md "Version 1.0.0 Overview")
+* [V1.0.0](https://github.com/eukaprotech/Server/blob/master/com/eukaprotech/server/server/1.0.0/README.md "Version 1.0.0 Overview")
 
 # Getting Started (V1.0.0)
 
